@@ -1,0 +1,32 @@
+_repo: Masterpieces-of-AdventureStories-of-the-Sea-and-Sky_62888
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Braddy, Nella
+    birthdate: 1894
+    deathdate: 1973
+    gutenberg_agent_id: '51974'
+    url: http://www.gutenberg.org/2009/agents/51974
+    wikipedia: http://www.gutenberg.org/ebooks/author/25626
+description: ''
+gutenberg_issued: '2020-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+- !lcsh 'Sea stories'
+- !lcsh 'Aeronautics -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+tableOfContents: The ship that saw a ghost / Frank Norris -- A nightmare of the Doldrums
+  / W. Clark Russell -- The kite / Major-General E. D. Swinton, D.S.O. -- Superdirigible
+  "Gamma-I" / Donn Byrne -- The lighthouse keeper of Aspinwall / Henryk Sienkiewicz
+  -- The wreck / Guy de Maupassant -- A descent into the Maelström / Edgar Allan Poe.
+title: Masterpieces of Adventure—Stories of the Sea and Sky
+url: http://www.gutenberg.org/ebooks/62888
